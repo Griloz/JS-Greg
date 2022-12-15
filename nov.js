@@ -1,6 +1,6 @@
-"use strict";
+// "use strict";
 
-alert ('Hello');
+// alert ('Hello');
 
 // const result = confirm("Are u here?");
 // console.log (result);

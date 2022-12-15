@@ -1,14 +1,18 @@
 "use strict";
 
-alert ('Hello');
+// alert ('Hello');
 
 // const result = confirm("Are u here?");
 // console.log (result);
 
 
 // const answer= prompt ("Вам есть 18?", " ");
-// console.log (answer+5);
-// console.log (typeof(answer));
+// console.log (answer +5);
+// console.log (typeof(answer));      ОТВЕТ (5) + 5 БУДЕТ  55   STRING
+
+// const answer= +prompt ("Вам есть 18?", " ");
+// console.log (answer +5);
+// console.log (typeof(answer));      ОТВЕТ (5) + 5 БУДЕТ  10   NUMBER
 
 
 // const answers = [];
