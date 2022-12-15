@@ -19,3 +19,5 @@ alert ('Hello');
 
 // document.write (answers);
 // console.log (typeof(answers));
+
+// 23-40
