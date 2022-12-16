@@ -25,7 +25,7 @@
 // console.log (typeof(answers));
 
 // 23-40
-'use strict';
+
 
 
 const numberOfFilms = +prompt ('Сколько фильмов вы уже посмотрели?','');
